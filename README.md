@@ -1,4 +1,4 @@
-# Machine Learning Recommendation System
+# 🤖 Machine Learning Recommendation System
 
 This repository contains a machine learning-based recommendation system built and trained using Python and TensorFlow. The project demonstrates the process of creating a recommendation model from data preprocessing to model deployment.
 
